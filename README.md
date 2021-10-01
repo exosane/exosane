@@ -8,7 +8,9 @@
 - 🔭 I’m currently working on **Nothing**
 - 🌱 I’m currently learning **Java**
 - 💬 Ask me stuff about **Computers and Phones**
+
+
 - ⚡ Fun fact: To find the temperature when both are equal, we use an old algebra trick and just set ºF = ºC and solve one of the equations. So the temperature when both the Celsius and Fahrenheit scales are the same is -40 degrees.
-- --I use leenux--
+
 
 
