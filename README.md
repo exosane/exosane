@@ -5,8 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=insanexe&row=1" alt="insanexe" /></a> </p>
 
-- 🔭 I’m currently working on **Nothing**
-- 🌱 I’m currently learning **Java**
+- 🔭 I’m currently working on **Hazker Tutorial**
+- 🌱 I’m currently learning **Nothing**
 - 💬 Ask me stuff about **Computers and Phones**
 
 
