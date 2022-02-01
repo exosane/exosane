@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm insanexe</h1>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=insanexe23&label=Profile%20views&color=0e75b6&style=flat" alt="insanexe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=exosane23&label=Profile%20views&color=0e75b6&style=flat" alt="exosane" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=insanexe&row=1" alt="insanexe" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exosane&row=1" alt="exosane" /></a> </p>
 
 - 🔭 I’m currently working on **Hazker Tutorial**
 - 🌱 I’m currently learning **Nothing**
